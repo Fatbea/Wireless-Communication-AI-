@@ -27,9 +27,12 @@ This repository collects documents and ideas related to **Wireless Communication
 -  Multi-Agent Collaboration via Evolving Orchestration (https://arxiv.org/pdf/2505.19591)
 ### 🔁 IoT
 - Probabilistic Latency Analysis of the Data Distribution Service in ROS 2 (https://arxiv.org/pdf/2508.10413)
+- CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks (https://arxiv.org/pdf/2509.14380)
+-  Synergetic Empowerment: Wireless Communications Meets Embodied Intelligence (https://arxiv.org/pdf/2509.10481)
 
 ### 🌍 Wireless Communication Theory Breakthrough
 - WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications (https://arxiv.org/pdf/2505.14354)
+- A Survey of AI Agent Protocols (https://arxiv.org/pdf/2504.16736)
 
 ### 🦾 Wireless Communication Engineering Breakthrough
 - Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
