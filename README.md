@@ -21,6 +21,7 @@ This repository collects documents and ideas related to **Wireless Communication
 
 ### 🧠 AI+ Wireless Communication
 - DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey(https://export.arxiv.org/pdf/2503.09956)
+- Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems(https://arxiv.org/pdf/2506.24009)
 
 ### 🔁 IoT
 -  
