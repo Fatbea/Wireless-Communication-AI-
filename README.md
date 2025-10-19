@@ -25,6 +25,8 @@ This repository collects documents and ideas related to **Wireless Communication
 -  Large AI Model Empowered Multimodal Semantic Communications (https://arxiv.org/pdf/2309.01249)
 -  Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception (https://arxiv.org/pdf/2505.23275)
 -  Multi-Agent Collaboration via Evolving Orchestration (https://arxiv.org/pdf/2505.19591)
+-   MAS2: SELF-GENERATIVE, SELF-CONFIGURING, SELF-RECTIFYING MULTI-AGENT SYSTEMS (https://arxiv.org/pdf/2509.24323)
+-   
 ### 🔁 IoT
 - Probabilistic Latency Analysis of the Data Distribution Service in ROS 2 (https://arxiv.org/pdf/2508.10413)
 - CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks (https://arxiv.org/pdf/2509.14380)
