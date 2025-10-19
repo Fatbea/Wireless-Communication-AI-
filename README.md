@@ -20,17 +20,19 @@ This repository collects documents and ideas related to **Wireless Communication
 
 
 ### 🧠 AI+ Wireless Communication
-- DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey(https://export.arxiv.org/pdf/2503.09956)
-- Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems(https://arxiv.org/pdf/2506.24009)
-
+- DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey (https://export.arxiv.org/pdf/2503.09956)
+- Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems (https://arxiv.org/pdf/2506.24009)
+-  Large AI Model Empowered Multimodal Semantic Communications (https://arxiv.org/pdf/2309.01249)
+-  Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception (https://arxiv.org/pdf/2505.23275)
+-  Multi-Agent Collaboration via Evolving Orchestration (https://arxiv.org/pdf/2505.19591)
 ### 🔁 IoT
--  
+- Probabilistic Latency Analysis of the Data Distribution Service in ROS 2 (https://arxiv.org/pdf/2508.10413)
 
 ### 🌍 Wireless Communication Theory Breakthrough
-- 
+- WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications (https://arxiv.org/pdf/2505.14354)
 
 ### 🦾 Wireless Communication Engineering Breakthrough
-- 
+- Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
 
 
 ---
