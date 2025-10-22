@@ -39,6 +39,7 @@ This repository collects documents and ideas related to **Wireless Communication
 
 ### 🦾 Wireless Communication Engineering Breakthrough
 - Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
+- Transforming Decoder-Only Transformers for Accurate WiFi-Telemetry Based Indoor Localization (https://arxiv.org/pdf/2505.15835v1)
 
 
 ---
