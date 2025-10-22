@@ -22,15 +22,16 @@ This repository collects documents and ideas related to **Wireless Communication
 ### 🧠 AI+ Wireless Communication
 - DeepSeek-Inspired Exploration of RL-based LLMs and Synergy with Wireless Networks: A Survey (https://export.arxiv.org/pdf/2503.09956)
 - Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems (https://arxiv.org/pdf/2506.24009)
--  Large AI Model Empowered Multimodal Semantic Communications (https://arxiv.org/pdf/2309.01249)
--  Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception (https://arxiv.org/pdf/2505.23275)
--  Multi-Agent Collaboration via Evolving Orchestration (https://arxiv.org/pdf/2505.19591)
--   MAS2: SELF-GENERATIVE, SELF-CONFIGURING, SELF-RECTIFYING MULTI-AGENT SYSTEMS (https://arxiv.org/pdf/2509.24323)
+- Large AI Model Empowered Multimodal Semantic Communications (https://arxiv.org/pdf/2309.01249)
+- Wireless Agentic AI with Retrieval-Augmented Multimodal Semantic Perception (https://arxiv.org/pdf/2505.23275)
+- Multi-Agent Collaboration via Evolving Orchestration (https://arxiv.org/pdf/2505.19591)
+- MAS2: SELF-GENERATIVE, SELF-CONFIGURING, SELF-RECTIFYING MULTI-AGENT SYSTEMS (https://arxiv.org/pdf/2509.24323)
+- Large Language Models for Wireless Communications: From Adaptation to Autonomy (https://arxiv.org/pdf/2507.21524)
 -   
 ### 🔁 IoT
 - Probabilistic Latency Analysis of the Data Distribution Service in ROS 2 (https://arxiv.org/pdf/2508.10413)
 - CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks (https://arxiv.org/pdf/2509.14380)
--  Synergetic Empowerment: Wireless Communications Meets Embodied Intelligence (https://arxiv.org/pdf/2509.10481)
+- Synergetic Empowerment: Wireless Communications Meets Embodied Intelligence (https://arxiv.org/pdf/2509.10481)
 
 ### 🌍 Wireless Communication Theory Breakthrough
 - WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications (https://arxiv.org/pdf/2505.14354)
