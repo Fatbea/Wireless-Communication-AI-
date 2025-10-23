@@ -40,11 +40,13 @@ This repository collects documents and ideas related to **Wireless Communication
 - Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments (https://arxiv.org/pdf/2510.17741)
 - Next-Generation AI-Native Wireless Communications: MCMC-Based Receiver Architectures for Unified Processing (https://arxiv.org/pdf/2510.01636)
 - From Legacy to Leadership: Intelligent Radio Network Planning Framework for Cell-Free Massive MIMO in B5G/6G Era (https://arxiv.org/pdf/2509.25517)
+- MCANet: A Coherent Multimodal Collaborative Attention Network for Advanced Modulation Recognition in Adverse Noisy Environments (https://arxiv.org/pdf/2510.18336)
  
 ### 🦾 Wireless Communication Engineering Breakthrough
 - Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
 - Transforming Decoder-Only Transformers for Accurate WiFi-Telemetry Based Indoor Localization (https://arxiv.org/pdf/2505.15835v1)
 - Based on Deep Neural Networks: A Machine Learning-Assisted Channel Estimation Method for MIMO Systems (https://arxiv.org/pdf/2510.11891)
+- Efficient Multi-Worker Selection based Distributed Swarm Learning via Analog Aggregation (https://arxiv.org/pdf/2510.18152)
 
 
 ---
