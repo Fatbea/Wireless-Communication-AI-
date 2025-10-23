@@ -37,6 +37,7 @@ This repository collects documents and ideas related to **Wireless Communication
 - WirelessMathBench: A Mathematical Modeling Benchmark for LLMs in Wireless Communications (https://arxiv.org/pdf/2505.14354)
 - A Survey of AI Agent Protocols (https://arxiv.org/pdf/2504.16736)
 - A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications (https://arxiv.org/pdf/2509.06119)
+- Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments (https://arxiv.org/pdf/2510.17741)
 
 ### 🦾 Wireless Communication Engineering Breakthrough
 - Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
