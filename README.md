@@ -27,7 +27,7 @@ This repository collects documents and ideas related to **Wireless Communication
 - Multi-Agent Collaboration via Evolving Orchestration (https://arxiv.org/pdf/2505.19591)
 - MAS2: SELF-GENERATIVE, SELF-CONFIGURING, SELF-RECTIFYING MULTI-AGENT SYSTEMS (https://arxiv.org/pdf/2509.24323)
 - Large Language Models for Wireless Communications: From Adaptation to Autonomy (https://arxiv.org/pdf/2507.21524)
--   
+  
 ### 🔁 IoT
 - Probabilistic Latency Analysis of the Data Distribution Service in ROS 2 (https://arxiv.org/pdf/2508.10413)
 - CRAFT: Coaching Reinforcement Learning Autonomously using Foundation Models for Multi-Robot Coordination Tasks (https://arxiv.org/pdf/2509.14380)
@@ -38,7 +38,9 @@ This repository collects documents and ideas related to **Wireless Communication
 - A Survey of AI Agent Protocols (https://arxiv.org/pdf/2504.16736)
 - A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications (https://arxiv.org/pdf/2509.06119)
 - Precoding for Uplink RIS-Assisted Cell-Free MIMO-OFDM Systems with Hardware Impairments (https://arxiv.org/pdf/2510.17741)
-
+- Next-Generation AI-Native Wireless Communications: MCMC-Based Receiver Architectures for Unified Processing (https://arxiv.org/pdf/2510.01636)
+- From Legacy to Leadership: Intelligent Radio Network Planning Framework for Cell-Free Massive MIMO in B5G/6G Era (https://arxiv.org/pdf/2509.25517)
+ 
 ### 🦾 Wireless Communication Engineering Breakthrough
 - Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
 - Transforming Decoder-Only Transformers for Accurate WiFi-Telemetry Based Indoor Localization (https://arxiv.org/pdf/2505.15835v1)
