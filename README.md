@@ -28,6 +28,7 @@ This repository collects documents and ideas related to **Wireless Communication
 - MAS2: SELF-GENERATIVE, SELF-CONFIGURING, SELF-RECTIFYING MULTI-AGENT SYSTEMS (https://arxiv.org/pdf/2509.24323)
 - Large Language Models for Wireless Communications: From Adaptation to Autonomy (https://arxiv.org/pdf/2507.21524)
 - BERT4beam: Large AI Model Enabled Generalized Beamforming Optimization (https://arxiv.org/pdf/2509.11056)
+-  Mixture of Semantics Transmission for Generative AI-Enabled Semantic Communication Systems (https://arxiv.org/pdf/2509.09499)
   
 ### 🔁 IoT
 - Probabilistic Latency Analysis of the Data Distribution Service in ROS 2 (https://arxiv.org/pdf/2508.10413)
