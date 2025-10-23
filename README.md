@@ -48,6 +48,7 @@ This repository collects documents and ideas related to **Wireless Communication
 - Transforming Decoder-Only Transformers for Accurate WiFi-Telemetry Based Indoor Localization (https://arxiv.org/pdf/2505.15835v1)
 - Based on Deep Neural Networks: A Machine Learning-Assisted Channel Estimation Method for MIMO Systems (https://arxiv.org/pdf/2510.11891)
 - Efficient Multi-Worker Selection based Distributed Swarm Learning via Analog Aggregation (https://arxiv.org/pdf/2510.18152)
+- NVIDIA AI Aerial: AI-Native Wireless Communications (https://arxiv.org/pdf/2510.01533)
 
 
 ---
