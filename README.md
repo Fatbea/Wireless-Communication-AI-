@@ -51,6 +51,7 @@ This repository collects documents and ideas related to **Wireless Communication
 - Based on Deep Neural Networks: A Machine Learning-Assisted Channel Estimation Method for MIMO Systems (https://arxiv.org/pdf/2510.11891)
 - Efficient Multi-Worker Selection based Distributed Swarm Learning via Analog Aggregation (https://arxiv.org/pdf/2510.18152)
 - NVIDIA AI Aerial: AI-Native Wireless Communications (https://arxiv.org/pdf/2510.01533)
+- A Real-time Data Collection Approach for 6G AI-native Networks (https://arxiv.org/pdf/2509.01276)
 
 
 ---
