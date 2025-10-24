@@ -45,6 +45,7 @@ This repository collects documents and ideas related to **Wireless Communication
 - Next-Generation AI-Native Wireless Communications: MCMC-Based Receiver Architectures for Unified Processing (https://arxiv.org/pdf/2510.01636)
 - From Legacy to Leadership: Intelligent Radio Network Planning Framework for Cell-Free Massive MIMO in B5G/6G Era (https://arxiv.org/pdf/2509.25517)
 - MCANet: A Coherent Multimodal Collaborative Attention Network for Advanced Modulation Recognition in Adverse Noisy Environments (https://arxiv.org/pdf/2510.18336)
+- A Communication-Efficient Decentralized Actor-Critic Algorithm (https://arxiv.org/pdf/2510.19199)
  
 ### 🦾 Wireless Communication Engineering Breakthrough
 - Offline and Distributional Reinforcement Learning for Wireless Communications (https://arxiv.org/pdf/2504.03804)
