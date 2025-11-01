@@ -56,6 +56,8 @@ This repository collects documents and ideas related to **Wireless Communication
 - NVIDIA AI Aerial: AI-Native Wireless Communications (https://arxiv.org/pdf/2510.01533)
 - A Real-time Data Collection Approach for 6G AI-native Networks (https://arxiv.org/pdf/2509.01276)
 
+### 👍Spatial Intelligence
+- Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces (https://arxiv.org/pdf/2412.14171)
 
 ---
 
